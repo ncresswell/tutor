@@ -4,6 +4,7 @@ Note: Breaking changes between versions are indicated by "💥".
 
 ## Unreleased
 
+- [Improvement] Ignore Python plugins which cannot be loaded.
 - [Improvement] Faster `tutor local start` by building only necessary images.
 
 ## v12.1.5 (2021-10-25)
