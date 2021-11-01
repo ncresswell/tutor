@@ -4,6 +4,7 @@ Note: Breaking changes between versions are indicated by "💥".
 
 ## Unreleased
 
+- [Improvement] Make `tutor plugins list` print plugins sorted by name.
 - [Improvement] Ignore Python plugins which cannot be loaded.
 - [Improvement] Faster `tutor local start` by building only necessary images.
 
