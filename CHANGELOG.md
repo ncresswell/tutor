@@ -4,6 +4,8 @@ Note: Breaking changes between versions are indicated by "💥".
 
 ## Unreleased
 
+- [Feature] Add [tutor-richie](https://github.com/overhangio/tutor-richie) to the plugins that are bundled with the tutor binary.
+
 ## v12.1.6 (2021-11-02)
 
 - [Improvement] Upgrade all services to open-release/lilac.3.
